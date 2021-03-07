@@ -1,0 +1,19 @@
+.parent{
+  color:blue;
+  font-size: 20px;
+}
+
+span{
+  color:purple;
+}
+
+.cls{
+  color: aqua;
+}
+
+#first{
+  color: black;
+}
+
+.parent span{
+  color: black;}
